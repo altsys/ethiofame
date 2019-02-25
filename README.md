@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ethiofame
 
 You can use the [editor on GitHub](https://github.com/altsys/ethiofame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
