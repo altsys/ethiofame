@@ -1,37 +1,9 @@
 ## Welcome to Ethiofame
 
-You can use the [editor on GitHub](https://github.com/altsys/ethiofame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Play this simple game of guessing who is a famous Ethiopian, untill you reach the truely famous.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Just remember, the truely famous is the one most voted by users. So if you think what is refected in this site doesn't represent most Ethiopians views, it's probably becaue they haven't voted yet. So share this with your friends.
 
-### Markdown
+### Social media influencers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/altsys/ethiofame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ethiofame is more than just a silly game, it would help us control what the so called social media influencers are doing in Ethiopia. I believe we can have a say on their opinion and what they are saying by promoting the right individual who cares for his country. So when you vote for anyone in this you are also saying he really cares for the country. We will promote him in his category and help him attract mroe followers.
